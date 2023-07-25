@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <div class="header">
+        <title>Jayaram's profolio</title>
+        <h1>jayaram profolio</h1>
+        
+        </div>
+        <link rel="stylesheet" href="./style.css">
+
+    </head>
+
+</body>
+    <div style="color:yellow;border: 1px solid black;">
+    <h1>Education</h1>
+    </div>
+        <ol>
+            <div class="details">
+            <li>SSC in sri santhinikethan High school</li>
+            <li>Diploma in Ece in SVGP</li>
+            <li>Btech in Rgm</li>
+            </div>
+        </ol>
+        
+        <div class="container">
+            <ul>
+                <div class="internship">
+                <h2>INTERNSHIP</h2>
+                <li>cybersecurity</li>
+                <li>Robotics</li>
+                <li>Processmining</li>
+                </div>
+            </ul>
+            <ul>
+                <div class="accomp">
+                    <h2>ACCOMPLISHMENTS</h2>
+                    <li>coding</li>
+                    <li>networking</li>
+                </div>
+            </ul>
+
+
+
+        
+        
+    
+
+
+
+
+
+
+    
+
+
+
+</html>

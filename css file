@@ -1,0 +1,59 @@
+    html,body{
+        height: 100%;
+        width:100%;
+
+    }
+    *{
+        margin:0;
+        padding:0;
+    }
+
+
+        .container{
+            display:flex;
+            
+            
+            height: 300px;
+
+            
+        }
+
+
+        .internship{
+            background-color: aqua;
+            margin-bottom:2px;
+            padding:2px;
+            height:150px;
+            width:500px;
+        }
+        .accomp{
+            background-color: pink;
+            margin-bottom: 2px;
+            padding: 2px;
+            height: 150px;
+            width:500px;
+        }
+        
+        
+        
+        
+        
+        
+        .header{
+            background-color:green;border: 1px solid red ;
+            margin-bottom: 5px;
+            padding: 5px;
+            height: 100px;
+            text-align: center;
+        }
+        .details{
+            background-color:blueviolet;
+            margin-bottom:3px;
+            padding:2px;
+            height: 100px;
+        }
+        
+        
+
+        
+    
